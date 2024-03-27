@@ -8,9 +8,8 @@
 2.?. Creating a Window
     2.1. What is Win32? (and where is Win64?)
     2.2. Opening a Window
-    2.3. Input, Controllers (Xbox Controllers)
-    2.4. Resizing
-    2.5. Demo
+    2.3. Input and Events (Xbox Controllers)
+    2.4. Demo
 3.?. Hello Triangle (Demo)
     3.?. Factory/Adapter/Device
     3.?. Debug Layer/Tools (RenderDoc & visual studio?)
@@ -24,7 +23,6 @@
     3.?. Fences
     3.?. Demo
 4.?. Hello Box (Demo)
-    4.?. Transformations
     4.?. Coordinate Systems
     4.?. Camera
     4.?. Textures (STBI)
